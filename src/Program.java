@@ -4,7 +4,9 @@ public class Program {
         byte Y;
         // define the variable "Y" as the number "6"
         Y = 2;
+        double X = 5;
         // print the value of the variable "Y"
-        System.out.println(Y);
+        System.out.println(Y + "," + X);
+
     }
 }
